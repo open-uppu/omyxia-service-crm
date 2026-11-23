@@ -1,6 +1,6 @@
 {
   "name": "omyxia-service-crm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "Omyxia CRM Microservice (Leads, Pipelines, Deals, Customer Activities)",
   "scripts": {
